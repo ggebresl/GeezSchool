@@ -1,1 +1,1 @@
-This repository contains lectures for Geez
+This repository contains lectures for Geez.
